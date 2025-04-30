@@ -12,8 +12,8 @@
 # 1. Business Problem
 ##################################################
 
-# The company wants to identify high-value customers and segment them using CLTV metrics.
-# This information will be used to prioritize customer relationship management and marketing investments.
+# An e-commerce company wants to segment its customers and
+# develop marketing strategies specific to these segments.
 
 # Dataset Story
 # https://archive.ics.uci.edu/ml/datasets/Online+Retail+II
